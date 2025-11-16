@@ -1,0 +1,13 @@
+pandas
+numpy
+pytrends
+requests
+asyncio-throttle
+aiohttp
+tqdm
+matplotlib
+seaborn
+python-dateutil
+jupyter
+notebook
+PyYAML
