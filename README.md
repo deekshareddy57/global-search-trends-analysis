@@ -1,2 +1,155 @@
-# global-search-trends-analysis
-This project is an end-to-end data analysis pipeline built to support research under a faculty project at Iowa State University. It involves extracting weekly Google Search Trends across multiple countries and cities, cleaning large raw datasets, merging regional data, conducting time-series analysis, and creating visual dashboards.
+# Global Search Trends Data Pipeline & Analytics
+
+This repository contains an end-to-end data pipeline for extracting, cleaning, merging, and analyzing global Google Search Trends data. It supports a faculty-led research project at Iowa State University and demonstrates large-scale data processing, automation, time-series analysis, and dashboard visualization using Python.
+
+
+## 🔍 Project Overview
+
+The pipeline extracts weekly Google Search Trends data across multiple countries and cities using Python and PyTrends. It includes automated request throttling, retry logic, error handling, region-based iteration, and standardized cleaning steps.
+
+The workflow processes raw weekly time-series datasets into structured analytical outputs, enabling regional comparison, seasonal pattern detection, and dashboard visualization.
+
+This project demonstrates skills in Python automation, large-scale data cleaning, data engineering logic, visualization, and analytical storytelling.
+
+
+## 📁 Repository Structure
+
+global-search-trends-analysis/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── locations/
+│   ├── us_cities.csv
+│   ├── japan_cities.csv
+│   ├── china_cities.csv
+│   ├── iceland_cities.csv
+│   ├── india_cities.csv
+│   └── README.md             ← describes schema + format
+│
+├── extraction/
+│   ├── extract_data.py       ← main extraction logic (PyTrends, throttling)
+│   ├── api_handler.py        ← retries, error handling, backoff logic
+│   ├── file_manager.py       ← saving, loading CSVs, path helpers
+│   ├── data_cleaner.py       ← cleaning functions
+│   ├── __init__.py
+│   └── README.md
+│
+├── run_trends/
+│   ├── run_trends_us.py
+│   ├── run_trends_japan.py
+│   ├── run_trends_china.py
+│   ├── run_trends_iceland.py
+│   ├── run_trends_india.py
+│   ├── base_runner.py        ← shared run logic
+│   ├── __init__.py
+│   └── README.md
+│
+├── notebooks/
+│   ├── 01_exploration.ipynb
+│   ├── 02_cleaning.ipynb
+│   ├── 03_visualization.ipynb
+│   └── 04_analysis.ipynb
+│
+├── data/
+│   ├── raw/
+│   │   └── (empty or placeholder)
+│   ├── cleaned/
+│   │   └── (empty or placeholder)
+│   └── samples/
+│       ├── sample_raw.csv
+│       ├── sample_cleaned.csv
+│       └── README.md
+│
+├── dashboard/
+│   └── dashboard_preview.png
+│
+└── results/
+    └── insights_summary.pdf
+
+
+## 🛠 Tech Stack
+
+- Python (pandas, numpy)
+- PyTrends
+- Asyncio (throttling, retries)
+- Matplotlib / Seaborn
+- Jupyter Notebooks
+- Git/GitHub
+
+
+## ⚙️ Features
+
+### ✔ Automated Data Extraction
+- Weekly Google Search Trends extraction  
+- Handles multiple countries, regions, and cities  
+- Request throttling to avoid rate limits  
+- Retry and error-handling logic  
+
+### ✔ Data Cleaning & Standardization
+- Timestamp alignment  
+- Normalizing region/city identifiers  
+- Handling missing or incomplete weekly values  
+- Merging multi-year, multi-country datasets  
+
+### ✔ Analysis & Visualization
+- Time-series trend charts  
+- Regional comparison plots  
+- Keyword-level behavior analysis  
+- Outlier detection (optional)  
+
+### ✔ Interactive Dashboard
+Built in Power BI with:
+- Time-series slicers  
+- Region/country filters  
+- Keyword-level drilldown  
+- Exportable insight views  
+
+---
+
+## 📊 Sample Data
+The repository includes **sample raw and cleaned data (50–200 rows)** to demonstrate the pipeline.
+
+Full datasets are **not included** due to research agreements and ethical data-sharing constraints.
+
+---
+
+## 📈 Key Insights (Example Findings)
+- Seasonal search interest peaks consistently in **Q2–Q3** across most regions.  
+- East Asian cities show **higher volatility** in weekly search interest.  
+- U.S. midwestern cities display **stable patterns** with minimal variation.  
+- Fishing-related terms differ significantly by climate, geography, and culture.  
+
+---
+
+## 🚀 How to Run
+
+### 1. Clone the repository
+git clone https://github.com/deekshareddy57/global-search-trends-analysis.git
+cd global-search-trends-analysis
+
+### 2. Install dependencies
+pip install -r requirements.txt
+
+### 3. Run data extraction
+python scripts/extract_data.py
+
+### 4. Run data cleaning
+python scripts/clean_data.py
+
+### 5. Open notebooks for analysis
+notebooks/01_extraction.ipynb
+notebooks/02_cleaning.ipynb
+notebooks/03_visualization.ipynb
+notebooks/04_analysis.ipynb
+
+## 📊 Dashboard Preview
+
+[yet to insert the picture]
+
+## 📧 Contact
+
+Deeksha Reddy 
+deekshareddy.c@gmail.com
+https://www.linkedin.com/in/deeksha-reddy/
