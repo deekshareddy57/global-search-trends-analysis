@@ -13,7 +13,6 @@ This project demonstrates skills in Python automation, large-scale data cleaning
 
 
 ## 📁 Repository Structure
-
 global-search-trends-analysis/
 │
 ├── README.md
@@ -26,13 +25,13 @@ global-search-trends-analysis/
 │   ├── china_cities.csv
 │   ├── iceland_cities.csv
 │   ├── india_cities.csv
-│   └── README.md             ← describes schema + format
+│   └── README.md          # Schema + format explanation
 │
 ├── extraction/
-│   ├── extract_data.py       ← main extraction logic (PyTrends, throttling)
-│   ├── api_handler.py        ← retries, error handling, backoff logic
-│   ├── file_manager.py       ← saving, loading CSVs, path helpers
-│   ├── data_cleaner.py       ← cleaning functions
+│   ├── extract_data.py    # Main extraction logic (PyTrends, throttling)
+│   ├── api_handler.py     # Retries, error handling, backoff logic
+│   ├── file_manager.py    # Saving, loading CSVs, path helpers
+│   ├── data_cleaner.py    # Data cleaning functions
 │   ├── __init__.py
 │   └── README.md
 │
@@ -42,7 +41,7 @@ global-search-trends-analysis/
 │   ├── run_trends_china.py
 │   ├── run_trends_iceland.py
 │   ├── run_trends_india.py
-│   ├── base_runner.py        ← shared run logic
+│   ├── base_runner.py     # Shared run logic
 │   ├── __init__.py
 │   └── README.md
 │
@@ -53,10 +52,8 @@ global-search-trends-analysis/
 │   └── 04_analysis.ipynb
 │
 ├── data/
-│   ├── raw/
-│   │   └── (empty or placeholder)
-│   ├── cleaned/
-│   │   └── (empty or placeholder)
+│   ├── raw/               # Raw extracted weekly trends
+│   ├── cleaned/           # Cleaned/processed datasets
 │   └── samples/
 │       ├── sample_raw.csv
 │       ├── sample_cleaned.csv
