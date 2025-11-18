@@ -1,0 +1,690 @@
+date,latitude,longitude,country,state,search_count,location,geo_code,search_term,year,language_code,temperature_2m_max,temperature_2m_min,temperature_2m_mean
+12/31/2023,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Bass Fishing,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,36,Minneapolis,US-MN-613,Bass Fishing,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Bass Fishing,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,34,Minneapolis,US-MN-613,Bass Fishing,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Bass Fishing,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,34,Minneapolis,US-MN-613,Bass Fishing,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Bass Fishing,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,48,Minneapolis,US-MN-613,Bass Fishing,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Bass Fishing,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Bass Fishing,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,53,Minneapolis,US-MN-613,Bass Fishing,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Bass Fishing,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,60,Minneapolis,US-MN-613,Bass Fishing,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,61,Minneapolis,US-MN-613,Bass Fishing,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,61,Minneapolis,US-MN-613,Bass Fishing,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,62,Minneapolis,US-MN-613,Bass Fishing,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Bass Fishing,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Bass Fishing,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,96,Minneapolis,US-MN-613,Bass Fishing,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,95,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,100,Minneapolis,US-MN-613,Bass Fishing,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,87,Minneapolis,US-MN-613,Bass Fishing,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,84,Minneapolis,US-MN-613,Bass Fishing,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,76,Minneapolis,US-MN-613,Bass Fishing,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,86,Minneapolis,US-MN-613,Bass Fishing,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,76,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,92,Minneapolis,US-MN-613,Bass Fishing,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,80,Minneapolis,US-MN-613,Bass Fishing,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Bass Fishing,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,66,Minneapolis,US-MN-613,Bass Fishing,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,71,Minneapolis,US-MN-613,Bass Fishing,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Bass Fishing,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,51,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Bass Fishing,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Bass Fishing,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,31,Minneapolis,US-MN-613,Bass Fishing,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Bass Fishing,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Bass Fishing,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,30,Minneapolis,US-MN-613,Bass Fishing,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Bass Fishing,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Bass Fishing,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Bass Fishing,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Bass Fishing,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Bass Fishing,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,21,Minneapolis,US-MN-613,Bass Fishing,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Bass Fishing,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Bass Fishing,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Bass Fishing,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,30,Minneapolis,US-MN-613,Bass Fishing,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Bass Fishing,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Bass Fishing,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cleaning Fish,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Cooking Fish,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,16,Minneapolis,US-MN-613,Cooking Fish,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Cooking Fish,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Cooking Fish,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,63,Minneapolis,US-MN-613,Fishing,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,66,Minneapolis,US-MN-613,Fishing,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Fishing,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,78,Minneapolis,US-MN-613,Fishing,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,70,Minneapolis,US-MN-613,Fishing,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,61,Minneapolis,US-MN-613,Fishing,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,55,Minneapolis,US-MN-613,Fishing,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,58,Minneapolis,US-MN-613,Fishing,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fishing,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Fishing,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Fishing,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,54,Minneapolis,US-MN-613,Fishing,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,49,Minneapolis,US-MN-613,Fishing,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,55,Minneapolis,US-MN-613,Fishing,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,66,Minneapolis,US-MN-613,Fishing,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,64,Minneapolis,US-MN-613,Fishing,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,62,Minneapolis,US-MN-613,Fishing,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,78,Minneapolis,US-MN-613,Fishing,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,100,Minneapolis,US-MN-613,Fishing,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,93,Minneapolis,US-MN-613,Fishing,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,91,Minneapolis,US-MN-613,Fishing,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,98,Minneapolis,US-MN-613,Fishing,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,89,Minneapolis,US-MN-613,Fishing,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,91,Minneapolis,US-MN-613,Fishing,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,80,Minneapolis,US-MN-613,Fishing,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,81,Minneapolis,US-MN-613,Fishing,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,98,Minneapolis,US-MN-613,Fishing,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,88,Minneapolis,US-MN-613,Fishing,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,76,Minneapolis,US-MN-613,Fishing,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,75,Minneapolis,US-MN-613,Fishing,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,70,Minneapolis,US-MN-613,Fishing,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,71,Minneapolis,US-MN-613,Fishing,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,70,Minneapolis,US-MN-613,Fishing,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,64,Minneapolis,US-MN-613,Fishing,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,58,Minneapolis,US-MN-613,Fishing,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fishing,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,49,Minneapolis,US-MN-613,Fishing,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Fishing,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Fishing,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Fishing,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fishing,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Fishing,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fishing,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fishing,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Fishing,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Fishing,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Fishing,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,53,Minneapolis,US-MN-613,Fishing,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Fishing,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,75,Minneapolis,US-MN-613,Fishing,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Fishing,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,98,Minneapolis,US-MN-613,Fishing,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,94,Minneapolis,US-MN-613,Fishing,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,16,Minneapolis,US-MN-613,Fishing Bait,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Fishing Bait,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fishing Bait,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,13,Minneapolis,US-MN-613,Fishing Bait,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Fishing Bait,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fishing Bait,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,16,Minneapolis,US-MN-613,Fishing Bait,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fishing Bait,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,15,Minneapolis,US-MN-613,Fishing Bait,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Fishing Bait,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Fishing Bait,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Fishing Bait,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,24,Minneapolis,US-MN-613,Fishing Bait,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,34,Minneapolis,US-MN-613,Fishing Bait,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,39,Minneapolis,US-MN-613,Fishing Bait,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,24,Minneapolis,US-MN-613,Fishing Bait,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Fishing Bait,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Fishing Bait,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,36,Minneapolis,US-MN-613,Fishing Bait,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Fishing Bait,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing Bait,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Fishing Bait,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Fishing Bait,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Fishing Bait,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,21,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Fishing Bait,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,16,Minneapolis,US-MN-613,Fishing Bait,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Fishing Bait,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fishing Bait,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,16,Minneapolis,US-MN-613,Fishing Bait,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fishing Bait,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Bait,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing Bait,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Fishing Bait,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing Bait,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing Bait,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Fishing Bait,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,31,Minneapolis,US-MN-613,Fishing Bait,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,17,Minneapolis,US-MN-613,Fishing Boat,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing Boat,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Fishing Boat,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,31,Minneapolis,US-MN-613,Fishing Boat,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fishing Boat,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Fishing Boat,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fishing Boat,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Fishing Boat,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Fishing Boat,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Fishing Boat,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Fishing Boat,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Fishing Boat,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Fishing Boat,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fishing Boat,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Fishing Boat,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Fishing Boat,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Fishing Boat,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fishing Boat,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,71,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Fishing Boat,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,51,Minneapolis,US-MN-613,Fishing Boat,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,63,Minneapolis,US-MN-613,Fishing Boat,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fishing Boat,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,61,Minneapolis,US-MN-613,Fishing Boat,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Fishing Boat,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,71,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fishing Boat,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,60,Minneapolis,US-MN-613,Fishing Boat,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,65,Minneapolis,US-MN-613,Fishing Boat,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Fishing Boat,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Fishing Boat,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,54,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Fishing Boat,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fishing Boat,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Fishing Boat,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Fishing Boat,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Fishing Boat,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Fishing Boat,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing Boat,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Fishing Boat,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Boat,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,21,Minneapolis,US-MN-613,Fishing Boat,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Fishing Boat,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing Conditions,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,4,Minneapolis,US-MN-613,Fishing License,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,6,Minneapolis,US-MN-613,Fishing License,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,8,Minneapolis,US-MN-613,Fishing License,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,7,Minneapolis,US-MN-613,Fishing License,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,7,Minneapolis,US-MN-613,Fishing License,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,9,Minneapolis,US-MN-613,Fishing License,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing License,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,17,Minneapolis,US-MN-613,Fishing License,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,20,Minneapolis,US-MN-613,Fishing License,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing License,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,13,Minneapolis,US-MN-613,Fishing License,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Fishing License,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,12,Minneapolis,US-MN-613,Fishing License,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,12,Minneapolis,US-MN-613,Fishing License,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,18,Minneapolis,US-MN-613,Fishing License,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,12,Minneapolis,US-MN-613,Fishing License,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,11,Minneapolis,US-MN-613,Fishing License,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,11,Minneapolis,US-MN-613,Fishing License,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,10,Minneapolis,US-MN-613,Fishing License,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,10,Minneapolis,US-MN-613,Fishing License,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,7,Minneapolis,US-MN-613,Fishing License,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,7,Minneapolis,US-MN-613,Fishing License,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,6,Minneapolis,US-MN-613,Fishing License,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,5,Minneapolis,US-MN-613,Fishing License,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,4,Minneapolis,US-MN-613,Fishing License,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Fishing License,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Fishing License,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Fishing License,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Fishing License,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Fishing License,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Fishing License,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,3,Minneapolis,US-MN-613,Fishing License,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,4,Minneapolis,US-MN-613,Fishing License,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,7,Minneapolis,US-MN-613,Fishing License,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,6,Minneapolis,US-MN-613,Fishing License,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,48,Minneapolis,US-MN-613,Fishing Rod,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Fishing Rod,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,50,Minneapolis,US-MN-613,Fishing Rod,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fishing Rod,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,62,Minneapolis,US-MN-613,Fishing Rod,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,50,Minneapolis,US-MN-613,Fishing Rod,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Fishing Rod,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fishing Rod,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fishing Rod,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,52,Minneapolis,US-MN-613,Fishing Rod,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Fishing Rod,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,43,Minneapolis,US-MN-613,Fishing Rod,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fishing Rod,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Fishing Rod,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,53,Minneapolis,US-MN-613,Fishing Rod,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,62,Minneapolis,US-MN-613,Fishing Rod,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fishing Rod,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,51,Minneapolis,US-MN-613,Fishing Rod,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Fishing Rod,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,70,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,93,Minneapolis,US-MN-613,Fishing Rod,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,98,Minneapolis,US-MN-613,Fishing Rod,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,80,Minneapolis,US-MN-613,Fishing Rod,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Fishing Rod,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,82,Minneapolis,US-MN-613,Fishing Rod,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,74,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,82,Minneapolis,US-MN-613,Fishing Rod,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,94,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,86,Minneapolis,US-MN-613,Fishing Rod,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,82,Minneapolis,US-MN-613,Fishing Rod,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,78,Minneapolis,US-MN-613,Fishing Rod,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,71,Minneapolis,US-MN-613,Fishing Rod,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,79,Minneapolis,US-MN-613,Fishing Rod,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,54,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,48,Minneapolis,US-MN-613,Fishing Rod,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,50,Minneapolis,US-MN-613,Fishing Rod,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,54,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,45,Minneapolis,US-MN-613,Fishing Rod,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,30,Minneapolis,US-MN-613,Fishing Rod,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fishing Rod,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Fishing Rod,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fishing Rod,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Fishing Rod,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fishing Rod,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,39,Minneapolis,US-MN-613,Fishing Rod,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Fishing Rod,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Fishing Rod,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Fishing Rod,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,75,Minneapolis,US-MN-613,Fishing Rod,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,90,Minneapolis,US-MN-613,Fishing Rod,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,82,Minneapolis,US-MN-613,Fishing Rod,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,100,Minneapolis,US-MN-613,Fishing Rod,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,93,Minneapolis,US-MN-613,Fishing Rod,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,14,Minneapolis,US-MN-613,Fishing nets,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fishing nets,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Fly Fishing,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,26,Minneapolis,US-MN-613,Fly Fishing,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,48,Minneapolis,US-MN-613,Fly Fishing,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fly Fishing,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,33,Minneapolis,US-MN-613,Fly Fishing,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,52,Minneapolis,US-MN-613,Fly Fishing,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,49,Minneapolis,US-MN-613,Fly Fishing,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,53,Minneapolis,US-MN-613,Fly Fishing,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,58,Minneapolis,US-MN-613,Fly Fishing,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,77,Minneapolis,US-MN-613,Fly Fishing,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,87,Minneapolis,US-MN-613,Fly Fishing,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,64,Minneapolis,US-MN-613,Fly Fishing,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,83,Minneapolis,US-MN-613,Fly Fishing,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,74,Minneapolis,US-MN-613,Fly Fishing,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Fly Fishing,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,73,Minneapolis,US-MN-613,Fly Fishing,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,66,Minneapolis,US-MN-613,Fly Fishing,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fly Fishing,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Fly Fishing,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,61,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fly Fishing,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,68,Minneapolis,US-MN-613,Fly Fishing,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Fly Fishing,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,81,Minneapolis,US-MN-613,Fly Fishing,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,88,Minneapolis,US-MN-613,Fly Fishing,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,70,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,64,Minneapolis,US-MN-613,Fly Fishing,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,62,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,56,Minneapolis,US-MN-613,Fly Fishing,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,68,Minneapolis,US-MN-613,Fly Fishing,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,59,Minneapolis,US-MN-613,Fly Fishing,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,57,Minneapolis,US-MN-613,Fly Fishing,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,55,Minneapolis,US-MN-613,Fly Fishing,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,72,Minneapolis,US-MN-613,Fly Fishing,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Fly Fishing,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,54,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,45,Minneapolis,US-MN-613,Fly Fishing,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fly Fishing,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Fly Fishing,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,34,Minneapolis,US-MN-613,Fly Fishing,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,52,Minneapolis,US-MN-613,Fly Fishing,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,28,Minneapolis,US-MN-613,Fly Fishing,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Fly Fishing,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Fly Fishing,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Fly Fishing,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,19,Minneapolis,US-MN-613,Fly Fishing,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Fly Fishing,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Fly Fishing,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,42,Minneapolis,US-MN-613,Fly Fishing,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,48,Minneapolis,US-MN-613,Fly Fishing,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Fly Fishing,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,52,Minneapolis,US-MN-613,Fly Fishing,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,39,Minneapolis,US-MN-613,Trout Fishing,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,39,Minneapolis,US-MN-613,Trout Fishing,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Trout Fishing,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,30,Minneapolis,US-MN-613,Trout Fishing,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Trout Fishing,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Trout Fishing,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,24,Minneapolis,US-MN-613,Trout Fishing,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,36,Minneapolis,US-MN-613,Trout Fishing,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Trout Fishing,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Trout Fishing,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,51,Minneapolis,US-MN-613,Trout Fishing,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Trout Fishing,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,63,Minneapolis,US-MN-613,Trout Fishing,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,50,Minneapolis,US-MN-613,Trout Fishing,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Trout Fishing,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Trout Fishing,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,45,Minneapolis,US-MN-613,Trout Fishing,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,50,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,45,Minneapolis,US-MN-613,Trout Fishing,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Trout Fishing,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Trout Fishing,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,44,Minneapolis,US-MN-613,Trout Fishing,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Trout Fishing,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Trout Fishing,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,49,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,34,Minneapolis,US-MN-613,Trout Fishing,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,40,Minneapolis,US-MN-613,Trout Fishing,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,47,Minneapolis,US-MN-613,Trout Fishing,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Trout Fishing,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,43,Minneapolis,US-MN-613,Trout Fishing,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,38,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,35,Minneapolis,US-MN-613,Trout Fishing,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Trout Fishing,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,37,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,22,Minneapolis,US-MN-613,Trout Fishing,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,27,Minneapolis,US-MN-613,Trout Fishing,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,41,Minneapolis,US-MN-613,Trout Fishing,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,21,Minneapolis,US-MN-613,Trout Fishing,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,36,Minneapolis,US-MN-613,Trout Fishing,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,21,Minneapolis,US-MN-613,Trout Fishing,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,23,Minneapolis,US-MN-613,Trout Fishing,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Trout Fishing,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,25,Minneapolis,US-MN-613,Trout Fishing,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,32,Minneapolis,US-MN-613,Trout Fishing,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,46,Minneapolis,US-MN-613,Trout Fishing,2024,en,3.7,-3.9,0.014285714
+12/31/2023,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,,,
+1/7/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,2.3,-8.6,-2.985714286
+1/14/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,0.5,-22.8,-9.314285714
+1/21/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,-6.6,-22.1,-16.04285714
+1/28/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,5.9,-8,-0.657142857
+2/4/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,11.4,-4.8,0.928571429
+2/11/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,13.6,-5.4,1.871428571
+2/18/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,5.7,-19.1,-4.628571429
+2/25/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,10.7,-11.1,0.057142857
+3/3/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Where to fish,2024,en,21.2,-16.1,2.157142857
+3/10/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Where to fish,2024,en,10.6,-6.8,0.957142857
+3/17/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,17.4,-5.5,6.014285714
+3/24/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,9.1,-12.9,-2.357142857
+3/31/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,8.6,-13.7,-1.314285714
+4/7/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,13.4,-3,4.242857143
+4/14/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,23.1,0.5,10.4
+4/21/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,18.5,-1,7.371428571
+4/28/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,19.2,-0.7,10.12857143
+5/5/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,21,3.4,11.22857143
+5/12/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,27.7,4.1,15.55714286
+5/19/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,28.4,7.8,17.15714286
+5/26/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,25.4,8.1,16.91428571
+6/2/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,25.4,7.4,16.58571429
+6/9/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,29,12.2,18.68571429
+6/16/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,31.8,9.4,20.18571429
+6/23/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,27.1,12,19.67142857
+6/30/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,31.2,11.2,20.67142857
+7/7/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,27.8,12.7,19.77142857
+7/14/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,31.2,15.2,23.12857143
+7/21/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,30.3,13.6,21.12857143
+7/28/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,32.7,13.4,22.94285714
+8/4/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,34.2,15.9,24.15714286
+8/11/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,24.9,10.6,17.74285714
+8/18/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,27.8,12.2,20.91428571
+8/25/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,30,14.4,21.31428571
+9/1/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,31.2,13.8,21.55714286
+9/8/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Where to fish,2024,en,27.4,8.1,17.88571429
+9/15/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,29.7,13.6,22.2
+9/22/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,30.4,11,22.11428571
+9/29/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,29.1,8,18.14285714
+10/6/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,29,5.4,15.55714286
+10/13/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,26.9,4.8,13.62857143
+10/20/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,25.6,-0.8,11.9
+10/27/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,27.6,2.1,12.7
+11/3/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,26.3,-1.5,10.51428571
+11/10/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,15.1,0.2,7.014285714
+11/17/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,11.4,-1.4,5.6
+11/24/2024,44.9772995,-93.2654692,United States,MN,0,Minneapolis,US-MN-613,Where to fish,2024,en,12.3,-2.7,3.142857143
+12/1/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,3,-15,-7.314285714
+12/8/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,8,-14.6,-4.685714286
+12/15/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,4.4,-24.1,-8.271428571
+12/22/2024,44.9772995,-93.2654692,United States,MN,1,Minneapolis,US-MN-613,Where to fish,2024,en,3.6,-21.7,-6.157142857
+12/29/2024,44.9772995,-93.2654692,United States,MN,2,Minneapolis,US-MN-613,Where to fish,2024,en,3.7,-3.9,0.014285714
