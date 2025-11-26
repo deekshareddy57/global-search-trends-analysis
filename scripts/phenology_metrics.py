@@ -126,6 +126,8 @@ def analyze_phenology(input_file, output_file='phenology_analysis.csv'):
         # Compile results
         result = {
             'location': location,
+            'latitude': group['latitude'].iloc[0],
+            'longitude': group['longitude'].iloc[0],
             'geo_code': geo_code,
             'state': state,
             'country': country,
@@ -171,7 +173,7 @@ def analyze_phenology(input_file, output_file='phenology_analysis.csv'):
 if __name__ == "__main__":
     # Example usage
     input_file = "usa_cities.csv"  # Change this to your input file path
-    output_file = "phenology_analysis.csv"  # Change this to your desired output path
+    output_file = "phenology_analysis_with_lat_lon.csv"  # Change this to your desired output path
     
     # Run analysis
     results = analyze_phenology(input_file, output_file)
