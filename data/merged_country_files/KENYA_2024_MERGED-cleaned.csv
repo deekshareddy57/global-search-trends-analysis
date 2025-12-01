@@ -1,0 +1,682 @@
+date,latitude,longitude,country,state,Search Count,location,geo_code,search_term,year,language_code
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Bass Fishing,2024,en
+12/31/2023,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,12,Kenya,KE,Cleaning Fish,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cleaning Fish,2024,en
+12/31/2023,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,100,Kenya,KE,Cooking Fish,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Cooking Fish,2024,en
+12/31/2023,-1.286389,36.817223,Kenya,National,64,Kenya,KE,Fishing,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,44,Kenya,KE,Fishing,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,56,Kenya,KE,Fishing,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,43,Kenya,KE,Fishing,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,60,Kenya,KE,Fishing,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,50,Kenya,KE,Fishing,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,55,Kenya,KE,Fishing,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,58,Kenya,KE,Fishing,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,52,Kenya,KE,Fishing,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,56,Kenya,KE,Fishing,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,55,Kenya,KE,Fishing,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,60,Kenya,KE,Fishing,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,50,Kenya,KE,Fishing,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,39,Kenya,KE,Fishing,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,47,Kenya,KE,Fishing,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,62,Kenya,KE,Fishing,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,68,Kenya,KE,Fishing,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,56,Kenya,KE,Fishing,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,46,Kenya,KE,Fishing,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,63,Kenya,KE,Fishing,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,75,Kenya,KE,Fishing,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,95,Kenya,KE,Fishing,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,98,Kenya,KE,Fishing,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,99,Kenya,KE,Fishing,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,76,Kenya,KE,Fishing,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,64,Kenya,KE,Fishing,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,100,Kenya,KE,Fishing,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,89,Kenya,KE,Fishing,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,75,Kenya,KE,Fishing,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,67,Kenya,KE,Fishing,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,80,Kenya,KE,Fishing,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,77,Kenya,KE,Fishing,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,85,Kenya,KE,Fishing,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,63,Kenya,KE,Fishing,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,65,Kenya,KE,Fishing,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,80,Kenya,KE,Fishing,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,76,Kenya,KE,Fishing,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,58,Kenya,KE,Fishing,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,73,Kenya,KE,Fishing,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,63,Kenya,KE,Fishing,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,72,Kenya,KE,Fishing,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,61,Kenya,KE,Fishing,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,59,Kenya,KE,Fishing,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,54,Kenya,KE,Fishing,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,42,Kenya,KE,Fishing,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,69,Kenya,KE,Fishing,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,48,Kenya,KE,Fishing,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,70,Kenya,KE,Fishing,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,63,Kenya,KE,Fishing,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,57,Kenya,KE,Fishing,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,42,Kenya,KE,Fishing,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,53,Kenya,KE,Fishing,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,59,Kenya,KE,Fishing,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Bait,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Boat,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Conditions,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing License,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing nets,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fishing Rod,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Fly Fishing,2024,en
+12/31/2023,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,100,Kenya,KE,Trout Fishing,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Trout Fishing,2024,en
+12/31/2023,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+1/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+1/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+1/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+1/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+2/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+2/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+2/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+2/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+3/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+3/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+3/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+3/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+3/31/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+4/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+4/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+4/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+4/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+5/5/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+5/12/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+5/19/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+5/26/2024,-1.286389,36.817223,Kenya,National,14,Kenya,KE,Where to fish,2024,en
+6/2/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+6/9/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+6/16/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+6/23/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+6/30/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+7/7/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+7/14/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+7/21/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+7/28/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+8/4/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+8/11/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+8/18/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+8/25/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+9/1/2024,-1.286389,36.817223,Kenya,National,13,Kenya,KE,Where to fish,2024,en
+9/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+9/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+9/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+9/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+10/6/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+10/13/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+10/20/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+10/27/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+11/3/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+11/10/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+11/17/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+11/24/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+12/1/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+12/8/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+12/15/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+12/22/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
+12/29/2024,-1.286389,36.817223,Kenya,National,0,Kenya,KE,Where to fish,2024,en
